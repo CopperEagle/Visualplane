@@ -1,0 +1,1 @@
+The image in this directory was generated using "https://huggingface.co/spaces/playgroundai/playground-v2.5" and with the prompt "Landscape with a small wooden house and lots of snow, cartoonish"
