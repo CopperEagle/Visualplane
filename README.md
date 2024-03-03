@@ -39,6 +39,7 @@ This will compile the example code, link against the newly produced shared libra
 
 ## Examples
 There are a number of them in the examples directory.
+
 ![Example 1](examples/example_2/example_2.mp4)
 
 ![Example 2](examples/example_2/example_1.mp4)
